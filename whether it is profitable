@@ -1,0 +1,7 @@
+bid = 200
+price = 300
+profit = price*8 - bid*10
+if profit >= 0:
+    print("profitable")
+else:
+    print("not profitable")
