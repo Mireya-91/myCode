@@ -1,0 +1,5 @@
+n = 786
+if 786 % 2 == 0:
+    print("n is even")
+else:
+    print("n is odd")
